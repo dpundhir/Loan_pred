@@ -24,13 +24,13 @@ Loan_Status        :         Loan approved (Y/N)
 # Strategy Used
 In this dataset we need to use binary classification i.e. either the prediction will be True or False. In this assignment i have used various classification algorithms and have compared their accuracy score. Various algorithms i have used to solve the loan prediction problem is RandomForestClassifier , Decision Trees and Logistic Regression.
 
-## Assignment Presented to :- 
-# Dr. Amit Khaparde
-# Asst. Professor 
-# Department of CSE
+##### Assignment Presented to :- 
+#### Dr. Amit Khaparde
+#### Asst. Professor 
+#### Department of CSE
 
 
-## Assignment Presented by :-
-# Deepanshu
-# CSE (VI Sem.)
-# 40220902716
+##### Assignment Presented by :-
+#### Deepanshu
+#### CSE (VI Sem.)
+#### 40220902716
